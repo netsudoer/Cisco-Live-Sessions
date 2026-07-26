@@ -1,0 +1,8 @@
+# Cisco Live Enterprise Networking Sessions
+
+| Session Code | Session Title | Level | Event | Topics | Resources | Status |
+|--------------|---------------|-------|-------|--------|-----------|--------|
+| BRKENS-2095 | Designing Highly Available Networks using Catalyst 9000 Series Switches | Intermediate | Cisco Live 2026 Las Vegas | Catalyst 9000, IOS-XE, High Availability, Campus Design, Resiliency | [Session](https://www.ciscolive.com/on-demand/on-demand-library.html?search.event=1769534158486002QYqy&search.learningmap=1614365278184008wChc#/session/1780362715766001q4Ma) | ⚪ |
+| BRKENS-2656 | Meta: Secure Workplace Transformation with Catalyst 9K BGP EVPN VXLAN | Advanced | Cisco Live 2026 Las Vegas | Catalyst 9000, BGP EVPN, VXLAN, Campus Fabric, Enterprise Fabric, Large-Scale Networks | [Session](https://www.ciscolive.com/on-demand/on-demand-library.html?search.event=1769534158486002QYqy&search.learningmap=1614365278184008wChc#/session/1780362718368001qx08) | ⚪ |
+| BRKENS-2615 | Secure your IOS-XE Devices with Cisco Live Protect | Intermediate | Cisco Live 2026 Las Vegas | IOS-XE, Cisco Live Protect, Network Device Security, Hardening | [Session](https://www.ciscolive.com/on-demand/on-demand-library.html?search.event=1769534158486002QYqy&search.learningmap=1614365278184008wChc#/session/1780362717057001qiMz) | ⚪ |
+| BRKENS-2837 | Simplified and Resilient Campus Networks with EVPN Multihoming | Advanced | Cisco Live 2026 Las Vegas | EVPN Multihoming, Campus Fabric, Catalyst, High Availability, Layer 2 Redundancy | [Session](https://www.ciscolive.com/on-demand/on-demand-library.html?search.event=1769534158486002QYqy&search.learningmap=1614365278184008wChc#/session/1780362719488001q061) | ⚪ |
