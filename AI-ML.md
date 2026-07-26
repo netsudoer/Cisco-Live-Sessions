@@ -1,0 +1,8 @@
+# Cisco Live AI / ML Sessions
+
+| Session Code | Session Title | Level | Event | Topics | Resources | Status |
+|--------------|---------------|-------|-------|--------|-----------|--------|
+| BRKDCN-2971 | Demystifying AI Infrastructure for a Network Engineer | Beginner | Cisco Live 2026 Las Vegas | AI Infrastructure, GPU Communication, Distributed AI, AI Networking | [Session](https://www.ciscolive.com/on-demand/on-demand-library.html?search.event=1769534158486002QYqy&search.learningmap=1775676585203002ptmu#/session/1780362710496001qd9J) | ⚪ |
+| BRKDCN-1663 | Design, Automate and Visualize your AI Clusters with Nexus Dashboard | Intermediate | Cisco Live 2026 Las Vegas | Nexus Dashboard, AI Fabric, Automation, Telemetry, Observability | [Session](https://www.ciscolive.com/on-demand/on-demand-library.html?search.event=1769534158486002QYqy&search.learningmap=1775676585203002ptmu#/session/1780362702287001q5QS) | ⚪ |
+| BRKDCN-2688 | Designing RoCEv2 Networks for Distributed AI Training with Cisco Nexus 9000 | Advanced | Cisco Live 2026 Las Vegas | RoCEv2, AI Fabric, Nexus 9000, Congestion Management, Lossless Ethernet | [Session](https://www.ciscolive.com/on-demand/on-demand-library.html?search.event=1769534158486002QYqy&search.learningmap=1775676585203002ptmu#/session/1780362706030001qxos) | ⚪ |
+| BRKDCN-2928 | Silicon to Unified Management: Architecting High Performance AI Infrastructure Networks | Advanced | Cisco Live 2026 Las Vegas | AI Infrastructure, Cisco Silicon, Optics, AI Fabric, Unified Management | [Session](https://www.ciscolive.com/on-demand/on-demand-library.html?search.event=1769534158486002QYqy&search.learningmap=1775676585203002ptmu#/session/1780362707359001qREh) | ⚪ |
